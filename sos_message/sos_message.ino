@@ -12,8 +12,8 @@ void loop()
   s_blink();
   o_blink();
   s_blink();
-  // Wwait 3 secs between words
-  delay(3000);
+  // Wait 4 secs between words
+  delay(4000);
 }
 
 // Three short blinks 
